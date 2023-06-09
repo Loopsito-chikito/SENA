@@ -2,7 +2,10 @@ body{
     background-color: black;
 }
 
-h1{ 
+.tittle{ 
     font-family: cursive;
     color: white;
+}
+table{
+    margin: auto;
 }
