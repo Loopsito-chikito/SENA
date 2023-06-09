@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+    font-family: cursive;
+    color: white;
+    font-size: 15px;
+    margin: 15px;
+}
+h1{
+    text-align: center;
+    font-size: 15pt ;
+}
+
+table{
+    margin: auto;
+    border-style: solid;
+    border-color: aqua;
+}
+th,td{
+    border-style: solid;
+    border-color: aqua;
+}
+
+input::placeholder, select{
+    color:  gray;
+}
