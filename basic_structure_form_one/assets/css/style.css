@@ -5,7 +5,20 @@ body{
 .tittle{ 
     font-family: cursive;
     color: white;
+    margin-left: 450px;
+}
+.tittle2{
+    font-family: cursive;
+    color: white;
+    padding-left: 350px;
+}
+
+#tableViewUser{
+    color: white;
+
 }
 table{
     margin: auto;
+    margin: auto;
+    color: white;
 }
